@@ -1,2 +1,2 @@
-# jogoInfantil
-Jogo desenvolvido em JAVA para um projeto na faculdade.
+# Jogo infantil
+Jogo infantil desenvolvido em JAVA para um projeto na faculdade.
