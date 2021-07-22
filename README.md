@@ -1,2 +1,2 @@
 # Jogo infantil
-Jogo infantil desenvolvido em JAVA para um projeto na faculdade.
+A Java project using swing Consists in a classic interactive hangman game made for kids.
